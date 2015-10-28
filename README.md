@@ -1,2 +1,2 @@
-# resume
-Latest version of resume 
+# Resume
+Resume review for Udacity's Front-End Nanodegree
